@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StopInfoData xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xmlns="http://tempuri.org/">
+	<StopNo>3017</StopNo>
+	<StopLabel>NAVAHO 	BASELINE STATION</StopLabel>
+	<Error />
+	<Route>
+		<RouteDirection>
+			<RouteNo>95</RouteNo>
+			<RouteLabel>Orléans</RouteLabel>
+			<Direction>Eastbound</Direction>
+			<Error />
+			<RequestProcessingTime>20120213151218</RequestProcessingTime>
+			<Trips>
+				<Trip>
+					<TripDestination>Trim</TripDestination>
+					<TripStartTime>14:59</TripStartTime>
+					<AdjustedScheduleTime>2</AdjustedScheduleTime>
+					<AdjustmentAge>0.53</AdjustmentAge>
+					<LastTripOfSchedule>false</LastTripOfSchedule>
+					<BusType>6E - 60</BusType>
+					<GPSSpeed>46.68</GPSSpeed>
+					<Latitude>45.372693</Latitude>
+					<Longitude>-75.734738</Longitude>
+				</Trip>
+				<Trip>
+					<TripDestination>Place d'Orléans</TripDestination>
+					<TripStartTime>15:22</TripStartTime>
+					<AdjustedScheduleTime>10</AdjustedScheduleTime>
+					<AdjustmentAge>-1</AdjustmentAge>
+					<LastTripOfSchedule>false</LastTripOfSchedule>
+					<BusType>6E - 60</BusType>
+					<Speed>46.68</Speed>
+					<Latitude>45.372693</Latitude>
+					<Longitude>-75.734738</Longitude>
+				</Trip>
+				<Trip>
+					<TripDestination>Trim</TripDestination>
+					<TripStartTime>15:09</TripStartTime>
+					<AdjustedScheduleTime>16</AdjustedScheduleTime>
+					<AdjustmentAge>0.73</AdjustmentAge>
+					<LastTripOfSchedule>false</LastTripOfSchedule>
+					<BusType>6E - 60</BusType>
+					<Speed>46.68</Speed>
+					<Latitude>45.372693</Latitude>
+					<Longitude>-75.734738</Longitude>
+				</Trip>
+			</Trips>
+		</RouteDirection>
+		<RouteDirection>
+			<RouteNo>95</RouteNo>
+			<RouteLabel>Barrhaven Centre</RouteLabel>
+			<Direction>Westbound</Direction>
+			<Error />
+			<RequestProcessingTime>20120213151218</RequestProcessingTime>
+			<Trips>
+				<Trip>
+					<TripDestination>Barrhaven Centre</TripDestination>
+					<TripStartTime>14:25</TripStartTime>
+					<AdjustedScheduleTime>7</AdjustedScheduleTime>
+					<AdjustmentAge>0.67</AdjustmentAge>
+					<LastTripOfSchedule>false</LastTripOfSchedule>
+					<BusType>6E - 60</BusType>
+					<GPSSpeed>46.68</GPSSpeed>
+					<Latitude>45.372693</Latitude>
+					<Longitude>-75.734738</Longitude>
+				</Trip>
+				<Trip>
+					<TripDestination>Barrhaven Centre</TripDestination>
+					<TripStartTime>14:55</TripStartTime>
+					<AdjustedScheduleTime>9</AdjustedScheduleTime>
+					<AdjustmentAge>0.55</AdjustmentAge>
+					<LastTripOfSchedule>false</LastTripOfSchedule>
+					<BusType>6E - 60</BusType>
+					<GPSSpeed>46.68</GPSSpeed>
+					<Latitude>45.372693</Latitude>
+					<Longitude>-75.734738</Longitude>
+				</Trip>
+				<Trip>
+					<TripDestination>Barrhaven Centre</TripDestination>
+					<TripStartTime>14:35</TripStartTime>
+					<AdjustedScheduleTime>18</AdjustedScheduleTime>
+					<AdjustmentAge>0.82</AdjustmentAge>
+					<LastTripOfSchedule>false</LastTripOfSchedule>
+					<BusType>6E - 60</BusType>
+					<GPSSpeed>46.68</GPSSpeed>
+					<Latitude>45.372693</Latitude>
+					<Longitude>-75.734738</Longitude>
+				</Trip>
+			</Trips>
+		</RouteDirection>
+	</Route>
+</StopInfoData>

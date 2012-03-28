@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+ <RoutesForStopData xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xmlns="http://tempuri.org/">
+	<StopNo>3017</StopNo>
+	<StopDescription>NAVAHO / BASELINE STATION</StopDescription>
+	<Error />
+	<Routes>
+		<Route>
+			<RouteNo>57</RouteNo>
+			<DirectionID>0</DirectionID>
+			<Direction>Inbound</Direction>
+			<RouteHeading>Downtown / centre-ville</RouteHeading>
+		</Route>
+		<Route>
+			<RouteNo>57</RouteNo>
+			<DirectionID>1</DirectionID>
+			<Direction>Outbound</Direction>
+			<RouteHeading>Baseline</RouteHeading>
+		</Route>
+		<Route>
+			<RouteNo>70</RouteNo>
+			<DirectionID>0</DirectionID>
+			<Direction>Inbound</Direction>
+			<RouteHeading>Downtown / centre-ville</RouteHeading>
+		</Route>
+		<Route>
+			<RouteNo>70</RouteNo>
+			<DirectionID>1</DirectionID>
+			<Direction>Outbound</Direction>
+			<RouteHeading>Barrhaven</RouteHeading>
+		</Route>
+		<Route>
+			<RouteNo>71</RouteNo>
+			<DirectionID>0</DirectionID>
+			<Direction>Inbound</Direction>
+			<RouteHeading>Downtown / Centre-ville</RouteHeading>
+		</Route>
+		<Route>
+			<RouteNo>71</RouteNo>
+			<DirectionID>1</DirectionID>
+			<Direction>Outbound</Direction>
+			<RouteHeading>Barrhaven</RouteHeading>
+		</Route>
+		<Route>
+			<RouteNo>73</RouteNo>
+			<DirectionID>0</DirectionID>
+			<Direction>Inbound</Direction>
+			<RouteHeading>Downtown / centre-ville</RouteHeading>
+		</Route>
+		<Route>
+			<RouteNo>73</RouteNo>
+			<DirectionID>1</DirectionID>
+			<Direction>Outbound</Direction>
+			<RouteHeading>Barrhaven</RouteHeading>
+		</Route>
+		<Route>
+			<RouteNo>76</RouteNo>
+			<DirectionID>0</DirectionID>
+			<Direction>Inbound</Direction>
+			<RouteHeading>Downtown / centre-ville</RouteHeading>
+		</Route>
+		<Route>
+			<RouteNo>76</RouteNo>
+			<DirectionID>1</DirectionID>
+			<Direction>Outbound</Direction>
+			<RouteHeading>Barrhaven</RouteHeading>
+		</Route>
+		<Route>
+			<RouteNo>77</RouteNo>
+			<DirectionID>0</DirectionID>
+			<Direction>Inbound</Direction>
+			<RouteHeading>Downtown / centre-ville</RouteHeading>
+		</Route>
+	</Routes>
+</RoutesForStopData>
